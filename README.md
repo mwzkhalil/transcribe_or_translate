@@ -20,7 +20,7 @@ and<br>
 https://huggingface.co/Systran/faster-whisper-large-v2/tree/main<br>
 
 - place the medium model files inside "models/whisper_medium"
-- place the large model files inside "models/whisper_large"
+- place the large model files inside "models/whisper_large-3"
 
 ## Default Translation (target language)
 ```

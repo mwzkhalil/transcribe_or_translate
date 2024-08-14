@@ -11,8 +11,8 @@ import tempfile
 app = Flask(__name__)
 
 # Load models globally to avoid reloading on every request
-model_medium_dir = "medium"
-model_large_dir = "large-v3"
+model_medium_dir = "models/whisper_medium"
+model_large_dir = "models/whisper_large-v3"
 ct_model_path = "models/NLLB/nllb-200-distilled-600M-int8"
 sp_model_path = "models/NLLB/flores200_sacrebleu_tokenizer_spm.model"
 

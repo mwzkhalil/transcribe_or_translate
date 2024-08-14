@@ -5,7 +5,7 @@
 ```
 pip install -r requirements.txt
 ```
-Tested with WinPython 3.11 and CUDA V11.7.64
+Tested with WinPython 3.11
 
 
 ## Download models
@@ -24,9 +24,9 @@ https://huggingface.co/Systran/faster-whisper-large-v2/tree/main<br>
 
 ## Default Translation (target language)
 ```
-Line 19: tgt_lang = "deu_Latn"
+Line 19: tgt_lang = "urd_Arab"
 ```
-- default is German: "deu_Latn"
+- default is Urdu: "urd_Arab"
 - List of language codes, see: https://github.com/facebookresearch/flores/blob/main/flores200/README.md#languages-in-flores-200
 
 ## References<br>

@@ -24,7 +24,7 @@ https://huggingface.co/Systran/faster-whisper-large-v2/tree/main<br>
 
 ## Default Translation (target language)
 ```
-Line 19: tgt_lang = "urd_Arab"
+Line 94: tgt_lang = "urd_Arab"
 ```
 - default is Urdu: "urd_Arab"
 - List of language codes, see: https://github.com/facebookresearch/flores/blob/main/flores200/README.md#languages-in-flores-200
